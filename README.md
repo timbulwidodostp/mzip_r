@@ -1,6 +1,8 @@
 # mzip_r
 Marginalized zero-inflated Poisson regression Use mzip (mcount) With (In) R Software
 
+https://www.youtube.com/watch?v=Tkj9Bqbj4mw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
